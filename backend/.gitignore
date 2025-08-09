@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Sensitive credentials
+credentials.json
+serviceAccountKey.json
+
+# Server files and generated outputs
+server_files/
+output.mp3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/

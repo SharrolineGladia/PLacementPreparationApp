@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698990687574",
+    "project_id": "alumni-connect-dbc06",
+    "storage_bucket": "alumni-connect-dbc06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698990687574:android:7bb4e182d0cf58a18fd2f7",
+        "android_client_info": {
+          "package_name": "com.example.alumni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CJN_t3HsADVwH8a3jy13iGFit90wTFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
